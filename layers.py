@@ -25,4 +25,3 @@ def get_us_states():
 
     return gdf   
 
-leafmap.read_postgis()
